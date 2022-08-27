@@ -1,0 +1,7 @@
+{
+	"name": "First_pipeline",
+	"properties": {
+		"description": "this is my first pipeline in the azure data factory",
+		"annotations": []
+	}
+}
