@@ -55,16 +55,6 @@
 						"type": "DatasetReference"
 					}
 				]
-			},
-			{
-				"name": "SourceCount",
-				"type": "SetVariable",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"variableName": "Source",
-					"value": ""
-				}
 			}
 		],
 		"variables": {
