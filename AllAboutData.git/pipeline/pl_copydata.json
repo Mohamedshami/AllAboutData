@@ -1,5 +1,5 @@
 {
-	"name": "First_pipeline",
+	"name": "pl_copydata",
 	"properties": {
 		"description": "this is my first pipeline in the azure data factory",
 		"activities": [
